@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "id": "834b",
+      "firstname": "John",
+      "middlename": "Anthony",
+      "lastname": "Doe",
+      "dob": "2026-02-03",
+      "email": "john@gmail.com",
+      "maritalstatus": "single",
+      "phoneno": "9876543210",
+      "address": {
+        "street": "B4, sector 3",
+        "city": "Noida",
+        "state": "UP",
+        "country": "India",
+        "zipcode": "201301"
+      }
+    },
+    {
+      "firstname": "James",
+      "middlename": "",
+      "lastname": "Doe",
+      "dob": "1997-01-01",
+      "email": "jane@gmail.com",
+      "maritalstatus": "married",
+      "phoneno": "9876543210",
+      "address": {
+        "street": "B5 , sector 21",
+        "city": "Noida",
+        "state": "UP",
+        "country": "India",
+        "zipcode": "undefined"
+      },
+      "id": "38db"
+    }
+  ]
+}
